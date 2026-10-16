@@ -1,10 +1,16 @@
+<!-- Blue banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Daniel+Akpa;Building+with+Go+and+Python;Learning.+Building.+Improving."
-    alt="Animated introduction"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:1E90FF&height=180&section=header&text=Daniel%20Akpa&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20with%20Go%20and%20Python&descAlignY=60&descSize=18"
+    width="100%"
+    alt="Blue animated profile banner"
   />
 </p>
 
+<!-- Your introduction -->
+<h1 align="center">Hi 👋, I'm Daniel Akpa</h1>
+
+<h3 align="center">Aspiring Software Engineer | Go & Python Developer</h3>
 <br/>
 
 <br/>
