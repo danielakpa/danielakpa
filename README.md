@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Daniel+Akpa;Building+with+Go+and+Python;Learning.+Building.+Improving."
+    alt="Animated introduction"
+  />
+</p>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Daniel Akpa</h1>
 
 <h3 align="center">Aspiring Software Engineer | Go & Python Developer</h3>
