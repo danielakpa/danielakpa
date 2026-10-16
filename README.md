@@ -1,9 +1,11 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Daniel+Akpa;Building+with+Go+and+Python;Learning.+Building.+Improving."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=700&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Daniel+Akpa;Building+with+Go+and+Python;Learning.+Building.+Improving."
     alt="Animated introduction"
   />
 </p>
+
+<br/>
 
 <br/>
 
